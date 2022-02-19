@@ -1,45 +1,21 @@
 ---
-title: "Values"
+title: "My Platform"
 image: /img/about-jumbotron.jpg
 values:
-  - heading: "Shade-grown coffee"
+  - heading: "Education"
     text: >
-      Coffee is a small tree or shrub that grows in the forest
-      understory in its wild form, and traditionally was grown
-      commercially under other trees that provided shade. The
-      forest-like structure of shade coffee farms provides habitat for
-      a great number of migratory and resident species.
+      As a proud alumni of the public school system, I can confidently say that New York schools are amongst the best in the country. Giving children access to quality education is one of the most important investments a society can make in its future. We should continue building on the current fully-funded education system by: 1)Expanding education to include child care – As examined in depth by NY Senator Brisport (https://www.nysenate.gov/sites/default/files/childcaretourreport.pdf), most New Yorkers live in child care deserts. Child care facilities have neither the space nor ability to pay adequate staff salaries. This inherently promotes inequality and discourages new families when financial future is uncertain. I want to make sure New Yorkers can rely on a robust, well-funded child care system when it comes time to have a family. For me personally, guaranteed child care would make me want to start my family in New York. 2)Creating additional afterschool programs - After-school programs give students opportunities to learn skills, explore their interests, and discover new things. In addition, studies show (https://sedn.senate.ca.gov/sites/sedn.senate.ca.gov/files/2pgr_-_as_2015.pdf) that availability of after school activities drastically reduce juvenile crime. It is important that we take all possible steps to weed out crime from our communities from an early age. 3)Make CUNY & SUNY free for in-state students – Pass a New Deal for CUNY
     imageUrl: "/img/about-shade-grown.jpg"
-  - heading: "Single origin"
+  - heading: "Transportation"
     text: >
-      Single-origin coffee is coffee grown within a single known
-      geographic origin. Sometimes, this is a single farm or a
-      specific collection of beans from a single country. The name of
-      the coffee is then usually the place it was grown to whatever
-      degree available.
+    New York would be nothing without an efficient transportation network that can serve everyone. We use this transportation network for everything! (commuting to work, trucks delivering groceries to the local supermarket, seeing friends and family located in different parts of the city) For the system to function efficiently and serve the public well, all the movements within the network need to be seamless. To achieve a seamless transportation network in our city I would push to: 1)	Redistribute existing road space to accommodate those that use it most and have the most to benefit – For example, we can reduce availability of street parking during rush hours on commercial streets so that trucks don’t need to constantly double park to unload deliveries to local stores. With tailored street re-design we can achieve higher driver and pedestrian safety and more efficient use of curbside access will reduce congestion and allow more people access to these busy areas. 2)	Expand creation and automated enforcement of bus lanes to increase the average bus speed from the current 8.8mph to a more New York pace.--  In this chicken and egg problem, we can’t expect public transit ridership to increase if it is not an efficient means of transportation. We need to focus on making our buses reliable, fast, and safe. 3)	The public transit system needs to be updated for the 21st century commuter. All we ask for is a clean , on schedule, free of loitering, safe, and 24/7 system. It may seem like a lot, but in order for the system to continue being a success story of New York we must demand these basic functions.
     imageUrl: "/img/about-single-origin.jpg"
-  - heading: "Sustainable farming"
+  - heading: "Public Health & Safety"
     text: >
-      Sustainable agriculture is farming in sustainable ways based on
-      an understanding of ecosystem services, the study of
-      relationships between organisms and their environment. What
-      grows where and how it is grown are a matter of choice and
-      careful consideration for nature and communities.
+    Just like we don’t mail a bill to those in need that call the police, the way we interact with health care urgently needs to be treated like a right and not a privilege. I am a strong supporter of a single-payer healthcare system, which would also lead to substantial savings within the first year of implementation (https://www.ucsf.edu/news/2020/01/416416/single-payer-systems-likely-save-money-us-analysis-finds) We need to focus on the underlying issues that are giving us the current increase in crime. I advocate for the use of a data driven approach to tackle the bigger causes of crime such as: mental health issues and housing/food poverty. In addition to fixing the root cause, the reality is that not all crime can be prevented in a single approach. I believe we need stronger gun-safety legislation to curb the gun violence that is plaguing our city. Possession of a loaded firearm should carry a heavier punishment than the current Class E Felony designation, and we should give our police the tools necessary to remove any illegal firearms from our community.
     imageUrl: "/img/about-sustainable-farming.jpg"
-  - heading: "Direct sourcing"
+  - heading: "Public Space"
     text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
+      Highlighted by the pandemic, everyone’s view of public spaces, such as sidewalks and parks, evolved in the last two years. Programs like NYC’s Open Restaurants re-imagined the normal dining experience, all while saving thousands of restaurant jobs. Meanwhile, the DOT expanded the use of safer intersection design and constructed nearly 30 miles of bike lanes in 2020 alone. To me, this is only the beginning. I will advocate for DOT to action critical pedestrian projects such as the Vernon Boulevard Mall re-design so that people are the beneficiary of the limited space we have to work with. According to the Conservancy Report, “Trees are one of the simplest, cheapest, most effective ways to effect climate change of any you can imagine.” I stand together with NYC Mayor Eric Adams’ “Percent for Parks” plan that would commit 1% of the budget to the Parks department.
     imageUrl: "/img/about-direct-sourcing.jpg"
-  - heading: "Reinvest profits"
-    text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
-    imageUrl: "/img/about-reinvest-profits.jpg"
 ---
