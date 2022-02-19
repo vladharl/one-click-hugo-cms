@@ -2,7 +2,6 @@
 title: About Vlad
 type: products
 image: /img/products-jumbotron.jpg
-heading: What we offer
 heading: Who's Vlad?
 description: >-
   My name is Vlad. I am an immigrant running a campaign for the NY Assembly Seat in order to expand our education system, modernize our infrastructure and bring back public safety. I am a strong advocate of single-payer healthcare; healthcare should be a right, not an expensive privilege.
