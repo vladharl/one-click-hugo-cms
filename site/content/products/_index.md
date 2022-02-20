@@ -19,18 +19,18 @@ intro:
     - image: /img/illustrations-meeting-space.svg
       text: >
         The pandemic was a unique time for everyone. As a business owner, I felt not just the initial impact, when the world seemingly came to a halt, but also the government’s actions that followed. Contradicting regulation between the City and State, constantly changing mask policies, and disorganized vaccination rollouts are just some of the things every business had to deal with on a daily basis just to stay safe and in compliance. Our government failed us in the greatest time of need.
-  heading:
+  heading: Call to Action
   description: >
     I am running for State Assembly to make an impact on the role the government plays in its relationship with the people that it’s meant to serve. I want to love the place I call home, and enable the same for others. To do that, we need to: expand on education, re-design our decaying infrastructure using a first-principles approach, and re-establish public safety.
 main:
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
+    alt: Scene 1
     image: /img/products-grid3.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
+    alt: Scene 2
     image: /img/products-grid2.jpg
   image3:
-    alt: Coffee beans
+    alt: Scene 3
     image: /img/products-grid1.jpg
 ---
 
