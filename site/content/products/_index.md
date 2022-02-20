@@ -2,7 +2,8 @@
 title: About Vlad
 type: products
 image: /img/products-jumbotron.jpg
-blurb:heading: Who's Vlad?
+blurbs:
+heading: Who's Vlad?
 description: >-
   My name is Vlad and I’m running for the 37th Assembly District seat. My story from immigrant to business owner wouldn’t be possible without access to a public school and a train to take me there. As I’ve seen New York evolve throughout the years, I’ve also witnessed it’s public systems get left behind. It is time we give them the attention and updates they deserve!
 intro:
