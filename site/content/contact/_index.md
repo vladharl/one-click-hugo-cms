@@ -6,5 +6,4 @@ contact_entries:
     text: "info@vladforassembly.com"
 ---
 
-I'd love to get in touch with you and hear your ideas and
-questions. You can reach out to my campaign and I'll be happy to respond back!
+Do you want to volunteer for our campaign and help bring the next update?
