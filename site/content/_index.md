@@ -4,7 +4,7 @@ subtitle: WE'RE READY FOR AN UPDATE
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Who's Vlad?
-    text: "My name is Vlad and I’m running for the 37th Assembly District. My story from immigrant to business owner wouldn’t be possible without access to a public school and a train to take me there. As I’ve seen New York evolve throughout the years, I’ve also witnessed it’s public systems get left behind. It is time we give them the attention and updates they deserve!"
+    text: "My name is Vlad and I’m running for the 37th Assembly District. My story from immigrant to business owner wouldn’t be possible without access to a public school and a train to take me there. As I’ve seen New York evolve throughout the years, I’ve also witnessed its public systems get left behind. It is time we give them the attention and updates they deserve!"
 intro:
     heading: "About Vlad"
     text: "I was born in Ukraine and my family immigrated to Brooklyn when I was nine years old. My parents, immigrants from a non-English speaking country, worked long hours at low paying jobs to support and give my sister and me opportunities they never had."
