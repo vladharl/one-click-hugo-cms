@@ -18,7 +18,7 @@ intro:
         The pandemic was a unique time for everyone. As a business owner, I felt not just the initial impact, when the world seemingly came to a halt, but also the government’s actions that followed. Contradicting regulation between the City and State, constantly changing mask policies, and disorganized vaccination rollouts are just some of the things every business had to deal with on a daily basis just to stay safe and in compliance. Our government failed us in the greatest time of need.
   heading:
   description: >
-    My name is Vlad and I’m running for the 37th Assembly District seat. My story from immigrant to business owner wouldn’t be possible without access to a public school and a train to take me there. As I’ve seen New York evolve throughout the years, I’ve also witnessed it’s public systems get left behind. It is time we give them the attention and updates they deserve!
+    My name is Vlad and I’m running for the 37th Assembly District seat. My story from immigrant to business owner wouldn’t be possible without access to a public school and a train to take me there. As I’ve seen New York evolve throughout the years, I’ve also witnessed its public systems get left behind. It is time we give them the attention and updates they deserve!
 main:
   image1:
     alt: Scene 1
